@@ -7,6 +7,8 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2021/05/how-data-science-and-bi-can-improve-strategic-planning-in-organizations/
+
 https://www.analyticsvidhya.com/blog/2021/05/geospatial-analysis-getting-started-with-folium-in-python/
 
 https://www.analyticsvidhya.com/blog/2021/05/working-with-stock-market-time-series-data-using-facebook-prophet/
