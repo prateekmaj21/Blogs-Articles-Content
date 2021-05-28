@@ -7,6 +7,10 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2021/05/digital-image-processing-real-life-applications-and-getting-started-in-python/
+
+https://www.analyticsvidhya.com/blog/2021/05/interesting-nlp-use-cases-every-data-science-enthusiast-should-know/
+
 https://www.analyticsvidhya.com/blog/2021/05/k-means-clustering-with-mall-customer-segmentation-data-full-detailed-code-and-explanation/
 
 https://www.analyticsvidhya.com/blog/2021/05/how-data-science-and-bi-can-improve-strategic-planning-in-organizations/
