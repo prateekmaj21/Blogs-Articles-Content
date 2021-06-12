@@ -7,6 +7,12 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2021/06/text-analytics-of-resume-dataset-with-nlp/
+
+https://www.analyticsvidhya.com/blog/2021/05/doing-data-exploration-the-right-way-gre-scores-case-study/
+
+https://www.analyticsvidhya.com/blog/2021/05/analyzing-the-cryptocurrency-of-may-2021-python-for-finance-basics/
+
 https://www.analyticsvidhya.com/blog/2021/05/digital-image-processing-real-life-applications-and-getting-started-in-python/
 
 https://www.analyticsvidhya.com/blog/2021/05/interesting-nlp-use-cases-every-data-science-enthusiast-should-know/
