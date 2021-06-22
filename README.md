@@ -7,6 +7,12 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2021/06/tv-shows-analysis-netflix-prime-video-hulu-and-disney/
+
+https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/
+
+https://www.analyticsvidhya.com/blog/2021/06/fuzzywuzzy-python-library-interesting-tool-for-nlp-and-text-analytics/
+
 https://www.analyticsvidhya.com/blog/2021/06/text-analytics-of-resume-dataset-with-nlp/
 
 https://www.analyticsvidhya.com/blog/2021/05/doing-data-exploration-the-right-way-gre-scores-case-study/
