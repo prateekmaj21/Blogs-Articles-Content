@@ -7,6 +7,12 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2021/07/must-know-text-operations-in-python-before-you-dive-into-nlp/
+
+https://www.analyticsvidhya.com/blog/2021/07/an-interesting-opencv-application-creating-filters-like-instagram-and-picsart/
+
+https://www.analyticsvidhya.com/blog/2021/07/know-how-to-give-cartoon-effects-to-your-photos-with-opencv/
+
 https://www.analyticsvidhya.com/blog/2021/06/mlops-machine-learning-operations-in-microsoft-azure/
 
 https://www.analyticsvidhya.com/blog/2021/06/word-sense-disambiguation-importance-in-natural-language-processing/
