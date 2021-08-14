@@ -6,6 +6,8 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2021/08/what-is-relational-about-relational-databases/
+
 https://www.analyticsvidhya.com/blog/2021/08/basic-financial-calculations-using-python/
 
 https://www.analyticsvidhya.com/blog/2021/07/must-know-text-operations-in-python-before-you-dive-into-nlp/
