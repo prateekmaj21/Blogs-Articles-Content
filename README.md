@@ -6,6 +6,8 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2021/09/creating-a-movie-reviews-classifier-using-tf-idf-in-python/
+
 https://www.analyticsvidhya.com/blog/2021/08/what-is-relational-about-relational-databases/
 
 https://www.analyticsvidhya.com/blog/2021/08/basic-financial-calculations-using-python/
@@ -71,8 +73,10 @@ https://prateekmaj21.medium.com/msp-a-starter-session-ce73282a1759
 
 https://prateekmaj21.medium.com/machine-learning-summit-workshop-1-e1f49473674e
 
-# OpenGenus
+# Others
 https://iq.opengenus.org/author/prateek-majumder/
+
+https://capablemachine.com/2021/09/07/importance-of-r-in-statistical-analysis-and-data-science/
 
 # Announce.Today
 https://blog.announce.today/Keeping-track-of-locations-that-matter/
