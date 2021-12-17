@@ -6,6 +6,8 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2021/11/pattern-library-for-natural-language-processing-in-python/
+
 https://www.analyticsvidhya.com/blog/2021/11/exploratory-data-analysis-of-the-human-space-race/
 
 https://www.analyticsvidhya.com/blog/2021/10/indian-cuisine-analysis-a-data-driven-study/
