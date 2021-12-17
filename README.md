@@ -6,6 +6,10 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2021/12/bank-note-authentication-using-keras-sequential-model/
+
+https://www.analyticsvidhya.com/blog/2021/11/web-scraping-a-news-article-and-performing-sentiment-analysis-using-nlp/
+
 https://www.analyticsvidhya.com/blog/2021/11/pattern-library-for-natural-language-processing-in-python/
 
 https://www.analyticsvidhya.com/blog/2021/11/exploratory-data-analysis-of-the-human-space-race/
