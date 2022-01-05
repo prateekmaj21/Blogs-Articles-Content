@@ -6,6 +6,10 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2021/12/what-do-banks-do-with-data-case-study-predicting-the-salary-of-a-bank-customer-using-financial-data/
+
+https://www.analyticsvidhya.com/blog/2021/12/image-operations-in-python-with-opencv/
+
 https://www.analyticsvidhya.com/blog/2021/12/what-is-customer-analytics-and-why-is-it-important/
 
 https://www.analyticsvidhya.com/blog/2021/12/bank-note-authentication-using-keras-sequential-model/
