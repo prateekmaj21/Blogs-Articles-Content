@@ -6,6 +6,8 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2021/12/what-is-customer-analytics-and-why-is-it-important/
+
 https://www.analyticsvidhya.com/blog/2021/12/bank-note-authentication-using-keras-sequential-model/
 
 https://www.analyticsvidhya.com/blog/2021/11/web-scraping-a-news-article-and-performing-sentiment-analysis-using-nlp/
