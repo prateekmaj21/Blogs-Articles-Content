@@ -6,6 +6,8 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2022/01/what-is-data-journalism-all-about/
+
 https://www.analyticsvidhya.com/blog/2022/01/using-sequential-model-to-predict-prices-of-real-estate/
 
 https://www.analyticsvidhya.com/blog/2021/12/what-do-banks-do-with-data-case-study-predicting-the-salary-of-a-bank-customer-using-financial-data/
