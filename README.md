@@ -6,6 +6,8 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2022/02/learn-mobile-price-prediction-through-four-classification-algorithms/
+
 https://www.analyticsvidhya.com/blog/2022/02/top-10-ai-and-data-science-trends-in-2022/
 
 https://www.analyticsvidhya.com/blog/2022/02/ethics-in-data-science-and-proper-privacy-and-usage-of-data/
@@ -105,6 +107,8 @@ https://prateekmaj21.medium.com/machine-learning-summit-workshop-1-e1f49473674e
 https://iq.opengenus.org/author/prateek-majumder/
 
 https://capablemachine.com/2021/09/07/importance-of-r-in-statistical-analysis-and-data-science/
+
+https://www.knowledgehut.com/blog/data-science/why-machine-learning-for-data-science
 
 # Announce.Today
 https://blog.announce.today/Keeping-track-of-locations-that-matter/
