@@ -6,6 +6,8 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2022/02/top-10-ai-and-data-science-trends-in-2022/
+
 https://www.analyticsvidhya.com/blog/2022/02/ethics-in-data-science-and-proper-privacy-and-usage-of-data/
 
 https://www.analyticsvidhya.com/blog/2022/01/what-is-data-journalism-all-about/
