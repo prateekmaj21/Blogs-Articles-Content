@@ -6,6 +6,8 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2022/03/the-carbon-footprint-of-ai-and-deep-learning/
+
 https://www.analyticsvidhya.com/blog/2022/02/learn-mobile-price-prediction-through-four-classification-algorithms/
 
 https://www.analyticsvidhya.com/blog/2022/02/top-10-ai-and-data-science-trends-in-2022/
