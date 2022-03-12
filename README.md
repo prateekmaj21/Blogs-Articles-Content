@@ -116,6 +116,8 @@ https://capablemachine.com/2021/09/07/importance-of-r-in-statistical-analysis-an
 
 https://www.knowledgehut.com/blog/data-science/why-machine-learning-for-data-science
 
+https://www.knowledgehut.com/blog/data-science/what-does-a-data-scientist-do
+
 # Announce.Today
 https://blog.announce.today/Keeping-track-of-locations-that-matter/
 
