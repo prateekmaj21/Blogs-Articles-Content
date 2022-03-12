@@ -6,6 +6,10 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2022/03/data-professionals-india-salaries-analysis-and-study/
+
+https://www.analyticsvidhya.com/blog/2022/03/an-overview-of-data-collection-data-sources-and-data-mining/
+
 https://www.analyticsvidhya.com/blog/2022/03/the-carbon-footprint-of-ai-and-deep-learning/
 
 https://www.analyticsvidhya.com/blog/2022/02/learn-mobile-price-prediction-through-four-classification-algorithms/
