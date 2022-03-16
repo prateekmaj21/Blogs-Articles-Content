@@ -118,6 +118,8 @@ https://www.knowledgehut.com/blog/data-science/why-machine-learning-for-data-sci
 
 https://www.knowledgehut.com/blog/data-science/what-does-a-data-scientist-do
 
+https://www.knowledgehut.com/blog/data-science/data-science-for-marketing
+
 # Announce.Today
 https://blog.announce.today/Keeping-track-of-locations-that-matter/
 
