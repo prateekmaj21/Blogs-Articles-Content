@@ -1,5 +1,5 @@
 # Blogs-Articles-Content
-content by me
+content by Prateek Majumder
 
 Will keep it updated.
 
