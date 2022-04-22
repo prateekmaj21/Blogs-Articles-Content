@@ -6,6 +6,10 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2022/04/an-overview-of-hdfs-namenodes-and-datanodes/
+
+https://www.analyticsvidhya.com/blog/2022/04/principal-component-analysis-its-implementions/
+
 https://www.analyticsvidhya.com/blog/2022/04/predicting-possible-loan-default-using-machine-learning/
 
 https://www.analyticsvidhya.com/blog/2022/03/data-professionals-india-salaries-analysis-and-study/
