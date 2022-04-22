@@ -6,6 +6,8 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2022/04/predicting-possible-loan-default-using-machine-learning/
+
 https://www.analyticsvidhya.com/blog/2022/03/data-professionals-india-salaries-analysis-and-study/
 
 https://www.analyticsvidhya.com/blog/2022/03/an-overview-of-data-collection-data-sources-and-data-mining/
