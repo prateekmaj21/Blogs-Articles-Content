@@ -6,6 +6,10 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2022/05/apache-flume-data-collection-aggregation-transporting-tool/
+
+https://www.analyticsvidhya.com/blog/2022/05/apache-oozie-scheduler-system-to-manage-perform-hadoop-jobs/
+
 https://www.analyticsvidhya.com/blog/2022/04/apache-cassandra-high-performance-distributed-no-sql-database/
 
 https://www.analyticsvidhya.com/blog/2022/04/aws-redshift-cloud-data-warehouse-service/
