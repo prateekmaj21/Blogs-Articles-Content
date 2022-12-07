@@ -6,6 +6,18 @@ Will keep it updated.
 # Analytics Vidya
 https://www.analyticsvidhya.com/blog/author/prateekmaj21/
 
+https://www.analyticsvidhya.com/blog/2022/07/know-all-about-smart-contracts/
+
+https://www.analyticsvidhya.com/blog/2022/07/how-is-web-3-0-shaping-the-future-of-finance/
+
+https://www.analyticsvidhya.com/blog/2022/07/non-fungible-token-nft-what-are-they/
+
+https://www.analyticsvidhya.com/blog/2022/06/top-10-web-3-0-technologies-that-will-shape-our-future-world/
+
+https://www.analyticsvidhya.com/blog/2022/06/what-is-web-3-0-journey-from-web-1-0-to-web-3-0/
+
+https://www.analyticsvidhya.com/blog/2022/06/apache-pig-high-level-data-flow-platform/
+
 https://www.analyticsvidhya.com/blog/2022/05/apache-flume-data-collection-aggregation-transporting-tool/
 
 https://www.analyticsvidhya.com/blog/2022/05/apache-oozie-scheduler-system-to-manage-perform-hadoop-jobs/
